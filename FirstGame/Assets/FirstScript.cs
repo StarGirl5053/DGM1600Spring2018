@@ -4,6 +4,10 @@ using UnityEngine;
 
 public class FirstScript : MonoBehaviour {
 
+	// Class is an object classification
+	// Must have open and close () for objects
+	// void is a function that is void or empty or null
+
 	// Use this for initialization
 	void Start () {
 		
