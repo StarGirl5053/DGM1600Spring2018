@@ -1,0 +1,10 @@
+// I believe that syntax is the "grammar" of coding. ";" means "." for example. 
+// "{ }" represent a paragraph. 
+// Classes are like pages or page numbers to help locate paragraphs. 
+// Functions are the content of the paragraphs. 
+
+// However, functions act like order forms given to soldiers. If you create a function, the
+// soldiers know what to do when you say a code word. When you call a function, the soldiers 
+// (who have read your orders) do what you instructed. 
+
+// I think that's all I've learned so far... am I missing something? 
