@@ -1,0 +1,60 @@
+// From what I understand, if statements are just telling the computer "if 
+/* 'this' happens, perform this code." An example: if the player has a key,
+/* they can proceed through the door. Of course, it has to be written in 
+/* the C# code language instead of English. 
+
+// if (something is true)
+/* {
+/*      (perform this code);
+/*}
+
+// Examples:
+// if (key = true)
+/* {
+   print ("The door is open.");
+ }
+
+// if (password = "Hi, friend.")
+/* {
+   print ("Welcome, friend!");
+ }
+
+// if (Balrog = true)
+/* {
+   print("You... shall not... PASS!"); 
+ }
+
+// if (married = true)
+/* {
+    sound.UI = HereComeTheBride; 
+}
+
+// if (Hanzo = False)
+/* {
+    debug.log ("You are not my brother!");
+}
+
+// if (Takumi = true)
+/* {
+    print("sings 'Eyes on Me.'");
+}
+
+// if (Leo = false)
+/* {
+    print ("You are the ocean's gray waves.");
+}
+
+// if (Raijinto = true)
+/* {
+    print ("Unleash the lobster!");
+}
+
+// if (Sigfried = true)
+/* {
+    print ("Pass the ramen!");
+}
+
+// if (love = true)
+/* {
+    print("I love my dear Takumi!");
+}
