@@ -1,0 +1,11 @@
+// In the English dictionary, variables are described to be something that
+/* is liable to change. Variables in coding are things that can change as 
+/* the code/movie/game progresses. An example is the variable "int". "int" 
+/* is short for the word interger (forgive my spelling, please), and if you
+/* start messing around with said interger, like adding another interger, 
+/* the interger will change; the variable will change. 
+// Here are more examples of variables:
+/* - float (a float is a number with a decimal or is a whole number)
+/* - bool (short for "boolean; this variable can change between true or false)
+/* - string (a string is a list of characters; used for something like a sentence)
+/* - decimal (also a number with a decimal, but only decimals)
