@@ -1,0 +1,39 @@
+// I believe else clauses go hand in hand with if statements. Let's say you
+/* want a character to have two different dialogues depending on the items
+/* the player has. With an if statement, you can do that, but it's 
+/* significantly easier with an else statement. 
+
+// if(key = true)
+/* {
+    print("Yes, you may enter!");
+} else {
+    print("You shall not pass!");
+}
+
+// if (4 == x)
+/*{
+    debug.log("The death number...");  
+}else{
+    print("We are safe...");
+}
+
+// if (ultimate answer == 42)
+/*{
+    print("Shinigami");
+}else{
+    print ("Is s/he the one?");
+}
+
+// if (route == Hoshido)
+/* {
+    print("She will live.");
+}else{
+    print ("Crimson will die.");
+}
+
+// if (grade >= B)
+/*{
+    debug.log("I passed the class!");
+}else{
+    debug.log("I might want to retake this class...");
+}
